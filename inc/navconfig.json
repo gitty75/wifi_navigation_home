@@ -1,0 +1,41 @@
+
+{
+"navname": "navname",
+"navtype": "vertical",
+    "navlinks":[
+        {
+            "name": "orf",
+            "href" : "http://www.orf.at",
+            "title" : "blabla",
+            "navtext": "ORF"
+        },
+        {
+            "name" : "kurier",
+            "href" : "http://www.kurier.at",
+            "title" : "blabla",
+            "navtext" : "Kurier"
+        },
+        {
+            "name" : "derstandard",
+            "href" : "http://www.derstandard.at",
+            "title" : "blabla",
+            "navtext" : "DerStandard"
+        },
+        {
+            "name" : "theguardian",
+            "href" : "https://www.theguardian.com",
+            "title" : "blabla",
+            "navtext" : "theGuardian"
+        },
+        {
+            "name" : "thenewyorktimes",
+            "href" : "https://www.nytimes.com/",
+            "title" : "blabla",
+            "navtext" : "The New York Times"
+        }
+
+
+        
+
+    ]
+}
